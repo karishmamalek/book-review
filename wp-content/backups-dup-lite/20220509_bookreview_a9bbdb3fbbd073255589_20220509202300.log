@@ -1,0 +1,85 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: May 9, 2022 8:23 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.4.5
+WORDPRESS:	5.9.3
+PHP INFO:	8.1.2 | SAPI: apache2handler
+SERVER:		Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.1.2 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 34MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20220509_bookreview_a9bbdb3fbbd073255589_20220509202300_database.sql
+SQL FILE SIZE: 127.47KB (130525)
+SQL FILE TIME: 2022-05-09 20:23:50
+SQL RUNTIME: 2.73 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/xampp/htdocs/book-review
+ARCHIVE FILE: 20220509_bookreview_a9bbdb3fbbd073255589_20220509202300_archive.zip
+FILTERS: *ON*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  zip;rar;tar;gz;bz2;7z;
+----------------------------------------
+COMPRESSING
+SIZE:	74.16MB
+STATS:	Dirs 470 | Files 3,573
+SQL ADDED: 20220509_bookreview_a9bbdb3fbbd073255589_20220509202300_database.sql
+ZipArchive Object
+(
+    [lastId] => 4042
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 4043
+    [filename] => C:\xampp\htdocs\book-review\wp-content\backups-dup-lite\tmp\20220509_bookreview_a9bbdb3fbbd073255589_20220509202300_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 4042
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 27.45MB
+ARCHIVE RUNTIME: 75.67 sec.
+MEMORY STACK: 34MB
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files8
+Successfully opened zip C:/xampp/htdocs/book-review/wp-content/backups-dup-lite/tmp/20220509_bookreview_a9bbdb3fbbd073255589_20220509202300_archive.zip
+Adding enhanced installer files to archive using ZipArchive
+Installer files added to archive
+Added to archive
+After ziparchive close when adding installer
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 127.47KB
+INSTALLER FILE: 64.59KB
+ARCHIVE FILE: 28.47MB 
+EXPECTED FILE/DIRECTORY COUNT: 4,043
+ACTUAL FILE/DIRECTORY COUNT: 4,042
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 80.21 sec.
+PEAK PHP MEMORY USED: 36MB
+DONE PROCESSING => 20220509_bookreview May 9, 2022 8:25 pm
+
